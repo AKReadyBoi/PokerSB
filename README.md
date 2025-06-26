@@ -3,7 +3,7 @@ This is a Poker Game Site with features like (still in developement, not MWP):
 - Joining a lobby by code
 - Lobby (in development)
 - Google/Login-Password Authentication
-- Localisation (DE/EN/RU)
+- Localisation (DE/EN/RU) (in development)
 - Poker (in developmnt)
 
 Backend - Java, Frontend - JS, HTML/CSS
