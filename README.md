@@ -6,4 +6,4 @@ This is a Poker Game Site with features like (still in developement, not MWP):
 - Localisation (DE/EN/RU)
 - Poker (in developmnt)
 
-Backend - Java, frontend - JS, HTML/CSS
+Backend - Java, Frontend - JS, HTML/CSS
