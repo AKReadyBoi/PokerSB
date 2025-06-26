@@ -5,4 +5,5 @@ This is a Poker Game Site with features like (still in developement, not MWP):
 - Google/Login-Password Authentication
 - Localisation (DE/EN/RU)
 - Poker (in developmnt)
+
 Backend - Java, frontend - JS, HTML/CSS
