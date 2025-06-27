@@ -1,4 +1,4 @@
-This is a Poker Game Site with features like (still in development, not MWP):
+This is a Poker Game Site with features like (still in development, not MVP):
 - Statistics
 - Joining a lobby by code
 - Lobby (in development)
